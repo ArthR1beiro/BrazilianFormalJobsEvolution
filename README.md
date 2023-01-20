@@ -24,7 +24,7 @@ Desenvolvimento de uma analise de dados para determinar a evolução dos emprego
 - Mplcyberpunk
 
 ### Bonus
-Elaboração de uma calculada da taixa de rotatividade.
+Elaboração de uma calculada da taxa de rotatividade.
 
 
 ## Linguagens e ferramentas
