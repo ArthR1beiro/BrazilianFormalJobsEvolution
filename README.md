@@ -7,26 +7,28 @@ Analise de dados provida pelo IBGE sobre a evolução de empregos formais.
 
 - [A Ideia](#a-ideia)
 - [Funcionalidades](#funcionalidades)
-- [Disponivel em](#disponivel-em)
 - [Linguagens e ferramentas](#linguagens-e-ferramentas)
 - [Autores](#autores)
 
 ## A ideia
-Desenvolvimento de um portifolio cuja demonstre altas tecnicas de frontend e design combinadas para entregar ao usuario uma experiencia agradavel ao conferir minhas habilidades.
+Desenvolvimento de uma analise de dados para determinar a evolução dos empregos formais no brasil entre 2019 e 2020, plotar gráficos filtrando as informação por categorias específicas, como sexo, faixa etária, setor e etc.
 
 ## Funcionalidades
 
 ### Python
-- Grids
-- Animações
-- Mascaras
-- Responsividade
+#### Bibliotecas:
+- Pandas
+- Numpy
+- Seaborn
+- Matplot
+- Mplcyberpunk
 
-## Disponivel em
-- https://arthr1beiro.github.io/ArthurPortfolio/
+### Bonus
+Elaboração de uma calculada da taixa de rotatividade.
+
 
 ## Linguagens e ferramentas
-- HTML5 <img align="center" alt="Arth-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+- Python <img align="center" alt="Arth-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 ## Autores
 
